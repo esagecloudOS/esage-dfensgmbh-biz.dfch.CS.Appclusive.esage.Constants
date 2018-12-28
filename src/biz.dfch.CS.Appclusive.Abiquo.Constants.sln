@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biz.dfch.CS.Appclusive.Abiquo.Constants", "biz.dfch.CS.Appclusive.Abiquo.Constants\biz.dfch.CS.Appclusive.Abiquo.Constants.csproj", "{09385EBC-F145-47E0-8EB5-294954EB53DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biz.dfch.CS.Appclusive.Abiquo.Constants.Tests", "biz.dfch.CS.Appclusive.Abiquo.Constants.Tests\biz.dfch.CS.Appclusive.Abiquo.Constants.Tests.csproj", "{F08687E8-DC83-4251-AB01-DCA6E640CAED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Release", "Release", "{5EA57BDB-DFB1-415F-9EB5-092814407312}"
+	ProjectSection(SolutionItems) = preProject
+		AssemblyVersion.cs = AssemblyVersion.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09385EBC-F145-47E0-8EB5-294954EB53DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09385EBC-F145-47E0-8EB5-294954EB53DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09385EBC-F145-47E0-8EB5-294954EB53DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09385EBC-F145-47E0-8EB5-294954EB53DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F08687E8-DC83-4251-AB01-DCA6E640CAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08687E8-DC83-4251-AB01-DCA6E640CAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08687E8-DC83-4251-AB01-DCA6E640CAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08687E8-DC83-4251-AB01-DCA6E640CAED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
